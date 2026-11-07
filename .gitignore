@@ -1,0 +1,22 @@
+# Critical security keys & credentials
+*.pem
+*.key
+.env
+baileys_auth_info/
+data/
+node_modules/
+
+# Flutter & Build Artifacts
+**/build/
+**/.dart_tool/
+**/.gradle/
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+
+# OS and Editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
